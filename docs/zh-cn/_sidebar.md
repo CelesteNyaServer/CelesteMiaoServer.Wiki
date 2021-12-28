@@ -1,1 +1,1 @@
-* [关于群服](zh-cn/README.md)
+* [**蔚蓝**](zh-cn/Celeste/README.md)
