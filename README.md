@@ -21,3 +21,9 @@ docs/
 ```
 需要你保证你的Wiki很详细才可以进行Marge 谢谢你的配合
 > 祝大家编写愉快
+
+所有Wiki目录采用MarkDown格式  
+如果你不知道什么是MarkDown 可以[点击这里](https://www.runoob.com/markdown/md-tutorial.html)查看教程  
+本Wiki框架采用**docsify** 
+- 一些高级格式请[点击这里](https://docsify.js.org/#/helpers)查看  
+- 代码高亮 [点击这里](https://docsify.js.org/#/language-highlight)
