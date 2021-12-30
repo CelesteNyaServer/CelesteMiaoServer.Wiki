@@ -15,3 +15,5 @@
 第三个手电筒：下，左，上-右，下-右，左，下-左
 第四个火炬：下，右，上左，下左，右，下右 
 点燃所有 4 个火炬后，将在雕像顶部授予水晶之心（名为“沉重与脆弱”）。 
+
+![RUNOOB 鸟类颜色方向（见第 1 章） ](https://static.wikia.nocookie.net/celestegame/images/e/e7/Celeste_Birds.png/revision/latest/scale-to-width-down/220?cb=20201006071705)
