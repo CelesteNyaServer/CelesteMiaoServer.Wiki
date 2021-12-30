@@ -21,3 +21,5 @@
 6. 左上（黄色）  
 
 执行这一系列的冲刺将使小鸟形成本章的水晶之心（名为“不知所谓的机器”），然后玩家可以获得它。
+
+![RUNOOB 图标](https://static.wikia.nocookie.net/celestegame/images/e/e7/Celeste_Birds.png/revision/latest?cb=20201006071705.png "RUNOOB")
