@@ -22,4 +22,4 @@
 
 执行这一系列的冲刺将使小鸟形成本章的水晶之心（名为“不知所谓的机器”），然后玩家可以获得它。
 
-![Celeste_Birds](img/Celeste_Birds.png ':size=500')
+![Celeste_Birds](../../../img/CelesteBirds.png ':size=500')
