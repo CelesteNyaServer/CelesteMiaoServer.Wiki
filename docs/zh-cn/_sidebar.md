@@ -10,5 +10,6 @@
         - [**第六章** 沉思](zh-cn/Celeste/Chapter/Chapter6.md)
         - [**第七章** 山顶](zh-cn/Celeste/Chapter/Chapter7.md)
         - [**第八章** 核心](zh-cn/Celeste/Chapter/Chapter8.md)
+        - [**第九章** 再见](zh-cn/Celeste/Chapter/Chapter9.md)
 - 多人游戏
     - [**蔚蓝群服**](zh-cn/CelesteServer/README.md)
