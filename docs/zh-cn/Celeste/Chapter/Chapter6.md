@@ -16,4 +16,4 @@
 第四个火炬：下，右，上左，下左，右，下右 
 点燃所有 4 个火炬后，将在雕像顶部授予水晶之心（名为“沉重与脆弱”）。 
 
-![Celeste_Birds](img/Celeste_Birds.png ':size=500')
+![Celeste_Birds](../../../img/CelesteBirds.png ':size=500')
