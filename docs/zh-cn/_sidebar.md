@@ -1,7 +1,7 @@
 - 蔚蓝
     - [**蔚蓝**](zh-cn/Celeste/README.md)
     - [**玩家自制地图**](zh-cn/Celeste/Maps/)
-       - [雨夜](zh-cn/Celeste/Maps/ARainyNight.md)
+        - [雨夜](zh-cn/Celeste/Maps/ARainyNight.md)
     - [**游戏章节**](zh-cn/Celeste/Chapter/)
         - [**第一章** 被遗弃的城市](zh-cn/Celeste/Chapter/Chapter1.md)
         - [**第二章** 旧址](zh-cn/Celeste/Chapter/Chapter2.md)
@@ -12,5 +12,6 @@
         - [**第七章** 山顶](zh-cn/Celeste/Chapter/Chapter7.md)
         - [**第八章** 核心](zh-cn/Celeste/Chapter/Chapter8.md)
         - [**第九章** 再见](zh-cn/Celeste/Chapter/Chapter9.md)
+    - [**mod地图**](zh-cn/Celeste/Mods/)
 - 多人游戏
     - [**蔚蓝群服**](zh-cn/CelesteServer/README.md)
