@@ -1,5 +1,9 @@
 - 蔚蓝
     - [**蔚蓝**](zh-cn/Celeste/README.md)
+    - [**Everest**](zh-cn/Celeste/Mods/README.md)
+        - [**Everest与Mod的安装和管理**](zh-cn/Celeste/Mods/Everest_and_mod.md)
+        - [**功能性Mod**](zh-cn/Celeste/Mods/Functional_mod.md)
+        - [**地图MOD**](zh-cn/Celeste/Mods/Map_mod.md)
     - [**玩家自制地图**](zh-cn/Celeste/Maps/)
         - [雨夜](zh-cn/Celeste/Maps/ARainyNight.md)
     - [**游戏章节**](zh-cn/Celeste/Chapter/)
