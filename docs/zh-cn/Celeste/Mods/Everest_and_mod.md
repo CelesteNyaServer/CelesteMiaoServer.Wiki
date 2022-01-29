@@ -48,9 +48,11 @@
 
 ### 在 Mods 文件夹中手动管理 Mod
 
-在游戏目录下的 Mods 文件夹中，可以手动管理 mod 的安装、更新、卸载与禁用。
+在游戏目录下的 Mods 文件夹中，可以手动管理 mod 的安装、更新、卸载与禁用。每个 mod 就是一个 .zip 压缩文件。
 
-安装 mod 需要访问 [GameBanana](https://gamebanana.com/games/6460) 网站，在其中查找所需的 mod，可以在搜索框中输入名称进行查找。
+![Mods 文件夹](Mods_folder.jpg)
+
+下载 mod 需要访问 [GameBanana](https://gamebanana.com/games/6460) 网站，在其中查找所需的 mod，可以在搜索框中输入名称进行查找。
 
 ![GameBanana](GameBanana_main.jpg)
 
@@ -58,15 +60,15 @@
 
 ![GameBanana](GameBanana_download.jpg)
 
-将从 GameBanana 或其他途径下载好的 .zip 压缩文件移动到 Mods 文件夹中，**不要解压**，即可完成 mod 的安装。
+也可以从群文件或者其他途径下载 mod 的 .zip 压缩文件。
+
+将下载好的 .zip 压缩文件移动到 Mods 文件夹中，**不要解压**，即可完成 mod 的安装。
 
 !> 在群文件或其他地方下载的部分 .zip 压缩包属于 mod 整合包，在文件名上会有说明，这些整合包需要解压，解压后会得到很多个 .zip 文件，请注意区分
 
 想要完全卸载 mod，可以直接删除对应的 .zip 文件，或者将其移出该文件夹。
 
 Mods 文件夹中还有 3 个 .txt 文件，这些是 Everest 的一些配置文件，可以手动修改，请参考“**使用 Everest 管理 Mod**”部分。
-
-![Mods 文件夹](Mods_folder.jpg)
 
 ### 使用 Olypmus 管理 Mod
 
@@ -80,7 +82,7 @@ Everest 除了提供 mod 加载和使用的功能，还提供了在游戏内下�
 
 ![游戏主菜单](Celeste_menu.jpg)
 
-在 Mod 选项页面，提供了非常多的 mod 管理功能。最上方是 Everest 的选项，下方依次列出了每个 mod 各自的选项。以下仅对 Everest 的部分选项进行说明。
+在 Mod 选项页面，提供了非常多的 mod 管理功能。最上方是 Everest 的选项，后面依次列出了每个 mod 各自的选项。以下仅对 Everest 的部分选项进行说明。
 
 如果部分 mod 缺少依赖文件，会加载失败，此时在选项的最上方会出现 **下载安装缺少的 Mod** 按钮，可以直接下载安装。
 
@@ -94,7 +96,7 @@ Everest 默认会在启动时**自动更新**所有 mod，如果不希望自动�
 
 如果希望检查更新时忽略某些 mod，可以在 **updaterblacklist.txt** 文件中添加。格式同上。
 
-如果希望在 mod 选项中调整各个 mod 选项的排序，可以在 **modoptionsorder.txt** 文件中添加。格式同上。
+如果希望在 Mod 选项中调整各个 mod 选项的排序，可以在 **modoptionsorder.txt** 文件中添加。格式同上。
 
 ### 使用 Mod 安装 Mod
 
