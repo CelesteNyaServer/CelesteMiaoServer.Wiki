@@ -6,4 +6,4 @@
 
 蔚蓝的 mod 大致可分为功能性 mod 和地图 mod 两类。由于官方并未提供 mod 的相关接口，本部分所有的内容都是由玩家自制的。
 
-在安装任何 mod 之前，都需要先安装蔚蓝的 mod 加载器：[Everest](Everest_and_mod.md)，然后再安装 mod。关于如何使用 mod 的更多信息，请参见 [Mod 使用说明](Mod_usage.md)。
+在安装任何 mod 之前，都需要先安装蔚蓝的 mod 加载器：[Everest](zh-cn/Celeste/Mods/Everest_and_mod.md)，然后再安装 mod。关于如何使用 mod 的更多信息，请参见 [Mod 使用说明](zh-cn/Celeste/Mods/Mod_usage.md)。
