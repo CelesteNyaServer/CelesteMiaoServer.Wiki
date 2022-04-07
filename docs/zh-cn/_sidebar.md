@@ -16,5 +16,9 @@
         - [**功能性 Mod 列表**](zh-cn/Celeste/Mods/Functional_mod_list.md)
     - [**玩家自制地图**](zh-cn/Celeste/Maps/)
         - [雨夜](zh-cn/Celeste/Maps/ARainyNight.md)
+    - [**常见问题和小技巧**](zh-cn/Celeste/FAQs.md)
 - 多人游戏
     - [**蔚蓝群服**](zh-cn/CelesteServer/README.md)
+        - [**账号注册和登录**](zh-cn/CelesteServer/Register.md)
+        - [**基本使用说明**](zh-cn/CelesteServer/Basic_usage.md)
+        - [**进阶使用说明**](zh-cn/CelesteServer/Advanced_usage.md)
