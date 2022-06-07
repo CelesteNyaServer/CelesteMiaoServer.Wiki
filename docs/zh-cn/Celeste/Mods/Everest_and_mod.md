@@ -41,7 +41,7 @@ Windows 系统在[GameBanana](https://gamebanana.com/tools/download/6449)（或[
 3. 使用 Everest 进行 mod 的更新与禁用
 4. 部分 mod 提供了有限的 mod 安装功能（如联机 mod）
 
-如果你在境外地区，或者具备科学上网的能力，可以考虑使用 Olypmus（方法 2），这是最简便的方法。否则，请使用**方法 1**，这是最通用的方法。方法 3 和方法 4 可作为辅助（在境内需要安装[中国镜像](https://celeste.weg.fan/files/ChinaMirror.zip) mod 后才能使用）。
+如果你在境外地区，或者具备科学上网的能力，可以考虑使用 Olypmus（方法 2），这是最简便的方法。否则，请使用**方法 1**，这是最通用的方法。方法 3 和方法 4 可作为辅助（在境内需要安装[中国镜像](https://celeste.weg.fan/api/v2/download/mods/ChinaMirror) mod 后才能使用）。
 
 ### 在 Mods 文件夹中手动管理 Mod
 
@@ -73,7 +73,7 @@ Mods 文件夹中还有 3 个 .txt 文件，这些是 Everest 的一些配置文
 
 ### 使用 Everest 管理 Mod
 
-!> 如果你在境内地区，请先使用方法 1 安装 [中国镜像](https://celeste.weg.fan/files/ChinaMirror.zip) mod，否则无法正常使用 Everest 下载和更新 mod
+!> 如果你在境内地区，请先使用方法 1 安装 [中国镜像](https://celeste.weg.fan/api/v2/download/mods/ChinaMirror) mod，否则无法正常使用 Everest 下载和更新 mod
 
 Everest 除了提供 mod 加载和使用的功能，还提供了在游戏内下载依赖文件、更新和禁用 mod 的功能。在主菜单或游戏暂停菜单中可以进入 **Mod 选项**。
 

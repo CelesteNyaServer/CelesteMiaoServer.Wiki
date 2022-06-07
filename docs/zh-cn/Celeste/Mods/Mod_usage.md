@@ -22,7 +22,7 @@
 
 ### 中国镜像
 
-!> 此 mod 不能从 GameBanana 上下载，[下载链接](https://celeste.weg.fan/files/ChinaMirror.zip)
+!> 此 mod 不能从 GameBanana 上下载，[下载链接](https://celeste.weg.fan/api/v2/download/mods/ChinaMirror)
 
 **中国镜像**让境内玩家可以正常使用游戏内下载的功能，如 Everest 的下载依赖和更新、联机 mod 的下载地图等。境外玩家无需使用。
 
