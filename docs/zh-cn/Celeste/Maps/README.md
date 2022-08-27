@@ -5,6 +5,5 @@
 ## 地图收录列表
 | 地图名称 | 地图制作者 | 地图难度 | 本WIKI攻略 | 地图下载(原贴) |
 | :-----------: | :-----------: | :-----------: | :-----------: | :-----------: |
-| 示例地图 | 小喵 | 春三 | [示例链接]() | [Banana原贴]() |
 | 雨夜 | 末影晶胞 | 春二到春三 | [雨夜](zh-cn/Celeste/Maps/ARainyNight.md) | [Banana原贴](https://gamebanana.com/mods/346892) [镜像](https://celeste.weg.fan/api/v2/download/mods/A%20Rainy%20Night)
 | 梦游2022 | 梦游制作组 | 春一到春5爆表 | [梦游2022](zh-cn/Celeste/Maps/DreamCollab2022.md) | [Banana原贴](https://gamebanana.com/mods/391486) [镜像](https://celeste.weg.fan/api/v2/download/mods/DreamCollab2022)|
