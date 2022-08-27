@@ -16,6 +16,7 @@
         - [**功能性 Mod 列表**](zh-cn/Celeste/Mods/Functional_mod_list.md)
     - [**玩家自制地图**](zh-cn/Celeste/Maps/)
         - [雨夜](zh-cn/Celeste/Maps/ARainyNight.md)
+        - [梦游2022](zh-cn/Celeste/Maps/DreamCollab2022.md)
     - [**常见问题和小技巧**](zh-cn/Celeste/FAQs.md)
 - 多人游戏
     - [**蔚蓝群服**](zh-cn/CelesteServer/README.md)
