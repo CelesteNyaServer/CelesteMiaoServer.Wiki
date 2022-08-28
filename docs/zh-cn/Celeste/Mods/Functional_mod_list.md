@@ -106,7 +106,8 @@
 | TaffylinePart1          | 太妃糖部分1   | [GameBanana][TaffylinePart1 - GameBanana] / [镜像][TaffylinePart1 - 镜像]                   |                          |
 | TaffylinePart2          | 太妃糖部分2   | [GameBanana][TaffylinePart2 - GameBanana] / [镜像][TaffylinePart2 - 镜像]                   |                          |
 | The Guy - IWBTJG          | The Guy - IWBTJG   | [GameBanana][The Guy - IWBTJG - GameBanana] / [镜像][The Guy - IWBTJG - 镜像]                   |                          |
-
+| Harold Madeline Skin          | 哈罗德·马德琳·斯皮   | [GameBanana][Harold Madeline Skin - GameBanana] / [镜像][Harold Madeline Skin - 镜像]                   |                          |
+| Funny Poses WIP          | 有趣的姿势在制品   | [GameBanana][Funny Poses WIP - GameBanana] / [镜像][Funny Poses WIP - 镜像]                   |                          |
 
 [Hyperline - GameBanana]: https://gamebanana.com/mods/14871
 [Hyperline - 镜像]: https://celeste.weg.fan/api/v2/download/mods/Hyperline
@@ -155,4 +156,8 @@
 [TaffylinePart2 - GameBanana]: https://gamebanana.com/mods/395129
 [TaffylinePart2 - 镜像]: https://celeste.weg.fan/api/v2/download/mods/TaffylinePart2
 [The Guy - IWBTJG - GameBanana]: https://gamebanana.com/mods/394473
-[The Guy - IWBTJG - 镜像]: https://celeste.weg.fan/api/v2/download/mods/TheGuy-IWBTJG
+[The Guy - IWBTJG - 镜像]: https://celeste.weg.fan/api/v2/download/gamebanana-files/844056
+[Harold Madeline Skin - GameBanana]: https://gamebanana.com/mods/393912
+[Harold Madeline Skin - 镜像]: https://celeste.weg.fan/api/v2/download/gamebanana-files/846449
+[Funny Poses WIP - GameBanana]: https://gamebanana.com/mods/393399
+[Funny Poses WIP - 镜像]: https://celeste.weg.fan/api/v2/download/gamebanana-files/841273
