@@ -36,5 +36,7 @@
 
 ## 有的人win11出闪退
 在**steam**右击游戏点属性，测试版切到**opengl**
+
 ![属性](../../../img/FAQs/steamattribute.png)
-![测试版](../../../img/FAQs/Beta version.png)
+
+![测试版](../../../img/FAQs/Betaversion.png)
