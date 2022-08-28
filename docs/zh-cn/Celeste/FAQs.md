@@ -33,3 +33,8 @@
 在**高 DPI 设置**中，勾选**替代高 DPI 缩放行为**，并在下方菜单中选择**应用程序**。如果还不能解决问题，可以依次尝试后面的“系统”和“系统(增强)”这两个选项。
 
 ![高 DPI 设置](../../../img/FAQs/High_DPI_settings.png)
+
+## 有的人win11出闪退
+在**steam**右击游戏点属性，测试版切到**opengl**
+![属性](../../../img/FAQs/steamattribute.png)
+![测试版](../../../img/FAQs/Beta version.png)
