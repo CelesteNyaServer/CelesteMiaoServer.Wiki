@@ -39,4 +39,4 @@
 
 ![属性](../../../img/FAQs/steamattribute.png)
 
-![测试版](../../../img/FAQs/Beta version.png)
+![测试版](../../../img/FAQs/Betaversion.png)
