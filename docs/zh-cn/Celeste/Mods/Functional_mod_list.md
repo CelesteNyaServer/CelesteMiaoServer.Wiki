@@ -100,6 +100,13 @@
 | uwu Kevins             | 【Kevin】UwU 皮肤    | [GameBanana][uwu Kevins - GameBanana] / [镜像][uwu Kevins - 镜像]                         |                          |
 | uwubumpers             | 【弹球】UwU 皮肤     | [GameBanana][uwubumpers - GameBanana] / [镜像][uwubumpers - 镜像]                         |                          |
 | Cat Ear Binos          | 【望远镜】猫耳皮肤   | [GameBanana][Cat Ear Binos - GameBanana] / [镜像][Cat Ear Binos - 镜像]                   |                          |
+| Replace Gold Flag With Star          | 用星星代替金旗   | [GameBanana][Replace Gold Flag With Star - GameBanana] / [镜像][Replace Gold Flag With Star - 镜像]                   |                          |
+| Hateline          | 哈特莱恩  | [GameBanana][Hateline - GameBanana] / [镜像][Hateline - 镜像]                   |                          |
+| Picoline Figurine          | 微型小雕像   | [GameBanana][Picoline Figurine - GameBanana] / [镜像][Picoline Figurine - 镜像]                   |                          |
+| TaffylinePart1          | 太妃糖部分1   | [GameBanana][TaffylinePart1 - GameBanana] / [镜像][TaffylinePart1 - 镜像]                   |                          |
+| TaffylinePart2          | 太妃糖部分2   | [GameBanana][TaffylinePart2 - GameBanana] / [镜像][TaffylinePart2 - 镜像]                   |                          |
+| The Guy - IWBTJG          | The Guy - IWBTJG   | [GameBanana][The Guy - IWBTJG - GameBanana] / [镜像][The Guy - IWBTJG - 镜像]                   |                          |
+
 
 [Hyperline - GameBanana]: https://gamebanana.com/mods/14871
 [Hyperline - 镜像]: https://celeste.weg.fan/api/v2/download/mods/Hyperline
@@ -137,3 +144,15 @@
 [uwubumpers - 镜像]: https://celeste.weg.fan/api/v2/download/mods/UwUbumpers
 [Cat Ear Binos - GameBanana]: https://gamebanana.com/mods/251786
 [Cat Ear Binos - 镜像]: https://celeste.weg.fan/api/v2/download/mods/Cat%20Binos
+[Replace Gold Flag With Star - GameBanana]: https://gamebanana.com/mods/397520
+[Replace Gold Flag With Star - 镜像]: https://celeste.weg.fan/api/v2/download/mods/ReplaceGoldFlagWithStar
+[Hateline - GameBanana]: https://gamebanana.com/mods/396767
+[Hateline - 镜像]: https://celeste.weg.fan/api/v2/download/mods/Hateline
+[Picoline Figurine - GameBanana]: https://gamebanana.com/mods/396162
+[Picoline Figurine - 镜像]: https://celeste.weg.fan/api/v2/download/mods/PicolineFigurine
+[TaffylinePart1 - GameBanana]: https://gamebanana.com/mods/395131
+[TaffylinePart1 - 镜像]: https://celeste.weg.fan/api/v2/download/mods/TaffylinePart1
+[TaffylinePart2 - GameBanana]: https://gamebanana.com/mods/395129
+[TaffylinePart2 - 镜像]: https://celeste.weg.fan/api/v2/download/mods/TaffylinePart2
+[The Guy - IWBTJG - GameBanana]: https://gamebanana.com/mods/394473
+[The Guy - IWBTJG - 镜像]: https://celeste.weg.fan/api/v2/download/mods/TheGuy-IWBTJG
