@@ -12,6 +12,4 @@
 
 ![反demohyper演示，位置：Ferocious Sanctuary+](../../../img/Techniques/hyper.jpg)
 
-![Olympus install](../../../img/Mods/Olympus_install.jpg)
-
 > [*详细说明Hyperdashes*](https://celeste.ink/wiki/Hyperdashes)
