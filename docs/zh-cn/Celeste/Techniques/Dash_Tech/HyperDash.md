@@ -6,10 +6,10 @@
 变种——半空hyper：见下面的demohyper。
 【demohyper的作用跟凌波差不多，但是使用的垂直位置比凌波低一点，有些时候可以用来救场】 
 
-![hyper演示，位置：第八章C面](../../../img/Techniques/hyper.jpg)
+![hyper演示，位置：第八章C面](../../../img/Techniques/hyper1.gif)
 
-![反hyper演示，位置：第九章](../../../img/Techniques/hyper.jpg)
+![反hyper演示，位置：第九章](../../../img/Techniques/hyper2.gif)
 
-![反demohyper演示，位置：Ferocious Sanctuary+](../../../img/Techniques/hyper.jpg)
+![反demohyper演示，位置：Ferocious Sanctuary+](../../../img/Techniques/hyper3.gif)
 
 > [*详细说明Hyperdashes*](https://celeste.ink/wiki/Hyperdashes)
