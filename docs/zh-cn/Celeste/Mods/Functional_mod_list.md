@@ -168,5 +168,7 @@
 [PinkMadaline - 镜像]: https://celeste.weg.fan/api/v2/download/gamebanana-files/861301
 [PinkMadaline - GameBanana]: https://gamebanana.com/mods/400833
 [PinkMadaline - 镜像]: https://celeste.weg.fan/api/v2/download/gamebanana-files/859480
+[Annoying Dog SkinMod - GameBanana]: https://gamebanana.com/mods/400124
+[Annoying Dog SkinMod - 镜像]: https://celeste.weg.fan/api/v2/download/gamebanana-files/859480
 [Fox - GameBanana]: https://gamebanana.com/mods/320696
 [Fox - 镜像]: https://celeste.weg.fan/api/v2/download/gamebanana-files/857866
