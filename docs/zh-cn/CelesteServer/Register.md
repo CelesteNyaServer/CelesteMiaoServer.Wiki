@@ -12,9 +12,13 @@
 ![qq群](../../img/CelesteServer/qqgroup.png)
 
 我们直接负责粘贴 !bind DuBu confirm 发送给机器人确认即可（如果不满意，在群里重复上一步）如果没有弹出，私聊机器人 !relogin（同理，英文感叹号，私聊没反应在群里发一次）
+
 ![3032444979](../../img/CelesteServer/qq.png)
+
 ![确认改操作](../../img/CelesteServer/qq2.png)
+
 ![确认](../../img/CelesteServer/qq3.png)
+
 打开游戏！打开游戏！打开游戏！
 
 确认打开游戏之后，点击下面的确认链接，左上角有个ok
