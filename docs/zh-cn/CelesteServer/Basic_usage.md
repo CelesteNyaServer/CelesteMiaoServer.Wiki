@@ -16,6 +16,7 @@
 ![3032444979](../../img/CelesteServer/qq.png)
 ![确认改操作](../../img/CelesteServer/qq2.png)
 ![确认](../../img/CelesteServer/qq3.png)
+
 打开游戏！打开游戏！打开游戏！
 
 确认打开游戏之后，点击下面的确认链接，左上角有个ok
