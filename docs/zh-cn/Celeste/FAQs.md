@@ -24,19 +24,25 @@
 
 找到游戏的安装目录，用鼠标右键点击 Celeste.exe，打开**属性**菜单。
 
-![属性菜单](../../../img/FAQs/Attribute_menu.png)
+![属性菜单](../../img/FAQs/Attribute_menu.png)
 
 选择**兼容性**选项卡，并点击**更改高 DPI 设置**。
 
-![兼容性选项卡](../../../img/FAQs/Compatibility_tab.png)
+![兼容性选项卡](../../img/FAQs/Compatibility_tab.png)
 
 在**高 DPI 设置**中，勾选**替代高 DPI 缩放行为**，并在下方菜单中选择**应用程序**。如果还不能解决问题，可以依次尝试后面的“系统”和“系统(增强)”这两个选项。
 
-![高 DPI 设置](../../../img/FAQs/High_DPI_settings.png)
+![高 DPI 设置](../../img/FAQs/High_DPI_settings.png)
 
-## 有的人win11出闪退
+## win11出闪退
 在**steam**右击游戏点属性，测试版切到**opengl**
 
-![属性](../../../img/FAQs/steamattribute.png)
+![属性](../../img/FAQs/steamattribute.png)
 
-![测试版](../../../img/FAQs/Betaversion.png)
+![测试版](../../img/FAQs/Betaversion.png)
+
+## 更换设备
+如有更换设备或其他原因导致无法登录的，私信机器人!relogin
+
+## 群服状态
+群服状态:http://status.celeste.centralteam.cn/

@@ -109,7 +109,6 @@
 | Harold Madeline Skin          | 哈罗德·马德琳·斯皮   | [GameBanana][Harold Madeline Skin - GameBanana] / [镜像][Harold Madeline Skin - 镜像]                   |                          |
 | Funny Poses WIP          | 有趣的姿势在制品   | [GameBanana][Funny Poses WIP - GameBanana] / [镜像][Funny Poses WIP - 镜像]                   |                          |
 | PinkMadaline          | 粉红玛德琳   | [GameBanana][PinkMadaline - GameBanana] / [镜像][PinkMadaline - 镜像]                   |                          |
-
 | Annoying Dog SkinMod          | 神烦的狗   | [GameBanana][Annoying Dog SkinMod - GameBanana] / [镜像][Annoying Dog SkinMod - 镜像]                   |                          |
 | Fox          | 狐狸   | [GameBanana][Fox - GameBanana] / [镜像][Fox - 镜像]                   |                          |
 
@@ -169,5 +168,7 @@
 [PinkMadaline - 镜像]: https://celeste.weg.fan/api/v2/download/gamebanana-files/861301
 [PinkMadaline - GameBanana]: https://gamebanana.com/mods/400833
 [PinkMadaline - 镜像]: https://celeste.weg.fan/api/v2/download/gamebanana-files/859480
+[Annoying Dog SkinMod - GameBanana]: https://gamebanana.com/mods/400124
+[Annoying Dog SkinMod - 镜像]: https://celeste.weg.fan/api/v2/download/gamebanana-files/859480
 [Fox - GameBanana]: https://gamebanana.com/mods/320696
 [Fox - 镜像]: https://celeste.weg.fan/api/v2/download/gamebanana-files/857866
