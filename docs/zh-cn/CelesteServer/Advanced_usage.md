@@ -10,7 +10,7 @@
 
 可以在 **Mod 选项**中将群服的相关设置置顶，请参见[使用 Everest 管理 Mod](zh-cn/Celeste/Mods/Everest_and_mod.md?id=使用-everest-管理-mod)。
 
-所有的设置内容都保存在**设置文件**中（Saves\modsettings-Miao.CelesteNet.Client.celeste），可以在关闭游戏后手动修改，或查看保存的用户名和密码。
+所有的设置内容都保存在**设置文件**中（Saves\modsettings-Miao.CelesteNet.Client），可以在关闭游戏后手动修改，或查看保存的用户名和密码。
 
 - **Connected**：群服连接
 - **Auto Reconnect**：自动重连，如果遇到群服断连时游戏卡死的情况，可以尝试关闭此选项
@@ -67,7 +67,7 @@
 
 在**聊天框**中使用 `/e` 或 `/emote` 命令即可发送表情。如 `/e p:granny/laugh` 发送奶奶大笑的表情，`/e tql` 发送“tql”文字表情。
 
-在群服 mod 的**设置文件**（Saves\modsettings-Miao.CelesteNet.Client.celeste）的末尾可以找到**快捷表情**的设置，每行以 `-` 开头并接一个空格，然后接一个表情格式，如 `- p:granny/laugh` 代表奶奶大笑的表情。这些快捷表情从上至下分别使用键盘上的**数字键 1~0** 或手柄的**右摇杆**来发送，最多设置 10 个，不支持改键。
+在群服 mod 的**设置文件**（Saves\modsettings-Miao.CelesteNet.Client）的末尾可以找到**快捷表情**的设置，每行以 `-` 开头并接一个空格，然后接一个表情格式，如 `- p:granny/laugh` 代表奶奶大笑的表情。这些快捷表情从上至下分别使用键盘上的**数字键 1~0** 或手柄的**右摇杆**来发送，最多设置 10 个，不支持改键。
 
 ![自定义表情](../../img/CelesteServer/Customized_emotes.png)
 
