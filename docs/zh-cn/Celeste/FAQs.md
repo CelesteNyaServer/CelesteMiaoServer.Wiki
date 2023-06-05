@@ -41,8 +41,13 @@
 
 ![测试版](../../img/FAQs/Betaversion.png)
 
-## 更换设备
-如有更换设备或其他原因导致无法登录的，私信机器人!relogin
-
-## 群服状态
-群服状态:http://status.celeste.centralteam.cn/
+## 打开游戏报错显示out of memory
+删点mod
+## 主菜单只有图标没有字
+打开蔚蓝时不要切屏
+## f6失灵
+重启qq或删除qq热键
+## 死亡后自动重开
+deathtracker第一个选项关掉
+## 蔚蓝崩溃
+先重启，没问题就当无事发生
