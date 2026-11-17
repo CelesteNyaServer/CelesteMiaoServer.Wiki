@@ -159,15 +159,13 @@
 [TaffylinePart2 - GameBanana]: https://gamebanana.com/mods/395129
 [TaffylinePart2 - 镜像]: https://celeste.weg.fan/api/v2/download/mods/TaffylinePart2
 [The Guy - IWBTJG - GameBanana]: https://gamebanana.com/mods/394473
-[The Guy - IWBTJG - 镜像]: https://celeste.weg.fan/api/v2/download/gamebanana-files/844056
+[The Guy - IWBTJG - 镜像]: https://celeste.weg.fan/api/v2/download/gamebanana-files/867731
 [Harold Madeline Skin - GameBanana]: https://gamebanana.com/mods/393912
 [Harold Madeline Skin - 镜像]: https://celeste.weg.fan/api/v2/download/gamebanana-files/846449
 [Funny Poses WIP - GameBanana]: https://gamebanana.com/mods/393399
 [Funny Poses WIP - 镜像]: https://celeste.weg.fan/api/v2/download/gamebanana-files/841273
 [PinkMadaline - GameBanana]: https://gamebanana.com/mods/400833
 [PinkMadaline - 镜像]: https://celeste.weg.fan/api/v2/download/gamebanana-files/861301
-[PinkMadaline - GameBanana]: https://gamebanana.com/mods/400833
-[PinkMadaline - 镜像]: https://celeste.weg.fan/api/v2/download/gamebanana-files/859480
 [Annoying Dog SkinMod - GameBanana]: https://gamebanana.com/mods/400124
 [Annoying Dog SkinMod - 镜像]: https://celeste.weg.fan/api/v2/download/gamebanana-files/859480
 [Fox - GameBanana]: https://gamebanana.com/mods/320696
