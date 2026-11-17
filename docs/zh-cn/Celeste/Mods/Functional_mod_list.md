@@ -33,7 +33,7 @@
 
 [Everest - GameBanana]: https://gamebanana.com/tools/6449
 [Everest - Website]: https://everestapi.github.io
-[MiaoCelesteNet - 镜像]: https://celeste.weg.fan/api/v2/download/mods/Miao.CelesteNet.Client
+[MiaoCelesteNet - 镜像]: https://celeste.weg.fan/api/v2/download/mods/MiaoNet
 [蔚蓝Mod中国镜像 - 镜像]: https://celeste.weg.fan/api/v2/download/mods/ChinaMirror
 [Extended Variant Mode - GameBanana]: https://gamebanana.com/mods/53650
 [Extended Variant Mode - 镜像]: https://celeste.weg.fan/api/v2/download/mods/ExtendedVariantMode
